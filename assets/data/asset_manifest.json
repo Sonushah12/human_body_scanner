@@ -1,0 +1,1182 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "part": "brain",
+      "path": "assets/models/brain.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "BP49",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/BP49.stl",
+          "sha256": "a8e62da081dcb54e84d49f481d56ac243b97c8f62aa93455b2ce7281f137037f"
+        },
+        {
+          "id": "BP50",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/BP50.stl",
+          "sha256": "f8335ade3ebc35876ae50a39201232f7fff023f25fc57f9e24e3c4953ce62a63"
+        },
+        {
+          "id": "FMA258714",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA258714.stl",
+          "sha256": "3cc9822dcd85957d59e1f7693261e5439a82cb18fe1eb73d212149d6f20b5125"
+        },
+        {
+          "id": "FMA258716",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA258716.stl",
+          "sha256": "0d8e8d8ee7ead40b24827006db87c84fa5f63797339f551db9ebebd3c41dfee0"
+        },
+        {
+          "id": "FMA61844",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA61844.stl",
+          "sha256": "fad509b6f3202fd4ef548ff72562c35f235815e4f9e37600b3e3d56da188ba7d"
+        },
+        {
+          "id": "FMA61993nsn",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA61993nsn.stl",
+          "sha256": "bc4a8dada1834e72bfda67b43d427325e289791fd3e52eb9572d829702e2f335"
+        },
+        {
+          "id": "FMA62004",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA62004.stl",
+          "sha256": "9c3b3ed2c81667526e14ba3cd5f427c4611f596eb38df6939d2154324dd6bb07"
+        },
+        {
+          "id": "FMA62008nsn",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA62008nsn.stl",
+          "sha256": "5598ae52eb0580509835f0ff3c9882aa8308b396209d6b4a51498297955c5788"
+        },
+        {
+          "id": "FMA62032",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA62032.stl",
+          "sha256": "86ffce4bfcb67cc457f00a1ac5771f0c093f1a4f35054d551f2418d32e489723"
+        },
+        {
+          "id": "FMA62033",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA62033.stl",
+          "sha256": "0197845b598e4f51525bc339bbe06263a4a1fe2567be9b5ce2fd1c15721e5a11"
+        },
+        {
+          "id": "FMA62327",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA62327.stl",
+          "sha256": "ddd934e94001468c70b96b8b32ab771110ebe44d2705f8e6febf621dea598fdc"
+        },
+        {
+          "id": "FMA62394",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA62394.stl",
+          "sha256": "8378143d06714d5222981f31b982eb0d4dbf6fde04ddd740b7f510d68335334b"
+        },
+        {
+          "id": "FMA67943",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA67943.stl",
+          "sha256": "464721a0893b05d7e830b327725cbd71c92d5fba6016c218bdbc4057f519e867"
+        },
+        {
+          "id": "FMA67944",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA67944.stl",
+          "sha256": "a023ac8cad7440cbb16814782f0d78643c9e81cdf04272971afa11a0100bd6fe"
+        },
+        {
+          "id": "FMA72653",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72653.stl",
+          "sha256": "bfdfb291520f28f3243e5b6969449e9d0ce70fcbe7f2e1862629cea21110eb94"
+        },
+        {
+          "id": "FMA72654",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72654.stl",
+          "sha256": "54aa6966cf6dee412cd16f2fc9ba4222a47910c59cc7a147dbac87d62689a13d"
+        },
+        {
+          "id": "FMA72655",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72655.stl",
+          "sha256": "3996b19ea6ddce123eb1c41798cfff26f8af125fa63492a98454c6ea994bf26e"
+        },
+        {
+          "id": "FMA72656",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72656.stl",
+          "sha256": "e97ef0b0a99f9d5b76d96363555cc27dca101c0f39ec340f38517e106a68d05b"
+        },
+        {
+          "id": "FMA72661",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72661.stl",
+          "sha256": "136dc5cab4297753d7d26af60990c9e94b78997d6bf6a61d2beea08c726fd497"
+        },
+        {
+          "id": "FMA72662",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72662.stl",
+          "sha256": "533692c92294c4f5ad4158a51ab681cfefb4bd0f729a70df2e983693a1b51b2b"
+        },
+        {
+          "id": "FMA72665",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72665.stl",
+          "sha256": "26aa859a22bed7bb4165f41b456f532ace9de8e7583754f894ec239615558829"
+        },
+        {
+          "id": "FMA72666",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72666.stl",
+          "sha256": "30fd9c050762f100770d42a71c64976cce10c49440f03e991702fe8514ebceb3"
+        },
+        {
+          "id": "FMA72667",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72667.stl",
+          "sha256": "babd989df0c238866ab1ae6c9e94d1fb3ec5b7d457ee25576a31a120831e9f97"
+        },
+        {
+          "id": "FMA72668",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72668.stl",
+          "sha256": "ac0d7b383407477f53f13304de628ec848e8273f41b9ca5895a34697834e6f1b"
+        },
+        {
+          "id": "FMA72669",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72669.stl",
+          "sha256": "8d269ad9da1d34453e23ac41ce4cf1e94734f48023373b7f2502beaed17cfeb1"
+        },
+        {
+          "id": "FMA72670",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72670.stl",
+          "sha256": "206507829901707be007389c3ebdbae07ebb942ec983d4582c3c2b76fef6ae34"
+        },
+        {
+          "id": "FMA72685",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72685.stl",
+          "sha256": "a39ee61dc99086d7d1be44c42157de54e04f9defa85074c63dc43b0bd1ef028f"
+        },
+        {
+          "id": "FMA72686",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72686.stl",
+          "sha256": "b7e58d0f86e4dd335eabf01b5459526f6a7fe66821b03ccb43d879ba70d56332"
+        },
+        {
+          "id": "FMA72687",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72687.stl",
+          "sha256": "ec04eabe123163d811f4eb4cbca8baf6cfc018ee5994bfe48b04a6b1991ad479"
+        },
+        {
+          "id": "FMA72688",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72688.stl",
+          "sha256": "fe75592f16a8c604c07f17e788e22f34801467f14f4a1e9d1066da3759a7616f"
+        },
+        {
+          "id": "FMA72689",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72689.stl",
+          "sha256": "5f7263b7768b54a4ef8b8e31a1d0ef7a7d8f72ccce5011fcbfce66b36a27ad58"
+        },
+        {
+          "id": "FMA72690",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72690.stl",
+          "sha256": "f7573954276f752193fe5b80b2ebab8e717d0e6c2b11f8ccea12c632c8abea3a"
+        },
+        {
+          "id": "FMA72701",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72701.stl",
+          "sha256": "dae4a0cd8dbeeb27170af29c1f03a7626fa5fbb3c21748c71f07ab67177dafc3"
+        },
+        {
+          "id": "FMA72702",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72702.stl",
+          "sha256": "68aec4cd4cb4a7c28c9f28e2056b64fd202237281012faba38736b03ab951d7a"
+        },
+        {
+          "id": "FMA72705",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72705.stl",
+          "sha256": "fd317edc429ea14f0cc4398198bfb5a6f3a06d1ab9b2b24e5d41a63756899e0a"
+        },
+        {
+          "id": "FMA72706",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72706.stl",
+          "sha256": "fa2679accd8a5134422e3d06012d30ac7db37cac3dcccba5526b9c9c3c55438b"
+        },
+        {
+          "id": "FMA72713",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72713.stl",
+          "sha256": "bd5eac2f2fe55edc2b0f68524171ee38a775fd770dfeb7257c71fedc8b45e259"
+        },
+        {
+          "id": "FMA72714",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72714.stl",
+          "sha256": "8cdbbe55c32006656574f414c8a56265d5f5c73bf206699c67a4feea94a17a21"
+        },
+        {
+          "id": "FMA72717",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72717.stl",
+          "sha256": "052c22b760864144c50cc50077a3bdb111d7ed57e5f025ed9c061829b353b5dc"
+        },
+        {
+          "id": "FMA72718",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72718.stl",
+          "sha256": "e83fc7ef26bafad285d81a236a5651132bd7eb1232f488ebb01f14202bffd927"
+        },
+        {
+          "id": "FMA72800",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72800.stl",
+          "sha256": "19cde3a87977e5e3ba6c4a7f5570686108354193ce1e57c4b2607461ef6444cf"
+        },
+        {
+          "id": "FMA72801",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72801.stl",
+          "sha256": "72022c802774b46f1ed6b3ae4afc705649d0a0a55a4eb50eef01ba40cb1278cb"
+        },
+        {
+          "id": "FMA72804",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72804.stl",
+          "sha256": "812a311901ebf3947d8bf37341b91e9ce25560c14cb65834ea4a1e707310af51"
+        },
+        {
+          "id": "FMA72805",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72805.stl",
+          "sha256": "8ee112c9d3387d6dcceacca5c13b27792466a55ecad95766c0cdee541a7e8210"
+        },
+        {
+          "id": "FMA72826",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72826.stl",
+          "sha256": "d8d364a08d7e98a5a57752b09be2540fbd75f6bd2ec5a20994490f6263991e8d"
+        },
+        {
+          "id": "FMA72827",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72827.stl",
+          "sha256": "8a307894f4f4a2cd557fdd9f41c14c581289082f80b35be1af19a34a48412d28"
+        },
+        {
+          "id": "FMA72828",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72828.stl",
+          "sha256": "ee203a0755d3ccbcb6bb535a6109dae9584549aef263e1a46899ce176566e483"
+        },
+        {
+          "id": "FMA72829",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72829.stl",
+          "sha256": "8b85165d23e1b12ea53e10f6b48939853058628cb32a4b1cf362ed58d6cbaef0"
+        },
+        {
+          "id": "FMA72830",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72830.stl",
+          "sha256": "53088c84419a96800e728e7f0eab42333f09b1b610a0d8acaa485c0cd7787d1e"
+        },
+        {
+          "id": "FMA72831",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72831.stl",
+          "sha256": "15bff551aaeaa83ba9411ce8d724e353a88a497491346c6450a9f40a0732b915"
+        },
+        {
+          "id": "FMA72832",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72832.stl",
+          "sha256": "f3ca51d983d4b02ebe81c9ea4efcf808e602466d1544cbd15d2007cff04802e4"
+        },
+        {
+          "id": "FMA72833",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72833.stl",
+          "sha256": "afc68bd353755bafcf95aa4cf19094df08c30de2e89bfec127314e9b0bf64835"
+        },
+        {
+          "id": "FMA72975",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72975.stl",
+          "sha256": "1ce0984b5f92adef2278d7adb2d6eada578f20da6d00ce642eb085af60711138"
+        },
+        {
+          "id": "FMA72976",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72976.stl",
+          "sha256": "8f718a0c60a316c7e6b60fa440909865927de819d2229c2c513f9dee97644a0a"
+        },
+        {
+          "id": "FMA72977",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72977.stl",
+          "sha256": "2586b9df7a37d40d5082b0fa212856e285c6cbebb0bac3c7cbf1af06678f949a"
+        },
+        {
+          "id": "FMA72978",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA72978.stl",
+          "sha256": "8ab8b6fdee006cf8776db3b3c9857dd10aa9d60cd1851c2e7975eb7978c8d57b"
+        },
+        {
+          "id": "FMA73303",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73303.stl",
+          "sha256": "3419dc93e9a5f33d2907ca774c192fb359006c71cbd44475f9e7f1f7ba922929"
+        },
+        {
+          "id": "FMA73304",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73304.stl",
+          "sha256": "5bf59a6eaa4f900093dd6d5189c21186f6ec6e0a1a267025024d93d55de88bb9"
+        },
+        {
+          "id": "FMA73309",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73309.stl",
+          "sha256": "85e7666c652cf06988ca9fee2514890db1ecc37408c5562ba9c57b27aa44de16"
+        },
+        {
+          "id": "FMA73310",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73310.stl",
+          "sha256": "c69c45f8ad20285e3f438b52a4ca7ebb4bc0e5c21e6272d589e505bc482a00ce"
+        },
+        {
+          "id": "FMA73422",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73422.stl",
+          "sha256": "0cbb1b8bf6038a3e7a6dc79599cec2eddd7e345abb64f863782c31ab28f79d1c"
+        },
+        {
+          "id": "FMA73423",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73423.stl",
+          "sha256": "fef46963f7fefc70763b36291f1eef25aa061c946cc30fce7c3ef4c727dec75b"
+        },
+        {
+          "id": "FMA73434",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73434.stl",
+          "sha256": "08b813f96fc4350186cc011e0fa0883554321cfa87e1dd15c51263bdd20a8f40"
+        },
+        {
+          "id": "FMA73435",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73435.stl",
+          "sha256": "0362deeae6c28d231604ac6a3d63ddc13f72d1faa799f9594bdff37ed736c197"
+        },
+        {
+          "id": "FMA73461",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73461.stl",
+          "sha256": "5101796b65462e3d3b1573802a2682cd08ae628ea3520762ec20c31e8be31fbb"
+        },
+        {
+          "id": "FMA73462",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73462.stl",
+          "sha256": "c7c9c2b0e9d126460910b8b34ae6698f13610dabdbd7b4efda43a092862704d6"
+        },
+        {
+          "id": "FMA73463",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73463.stl",
+          "sha256": "07d1af9fb36f5bf4d4faf8b89fca9dc269483c742098f5150ee71816e93f8ca0"
+        },
+        {
+          "id": "FMA73464",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA73464.stl",
+          "sha256": "d6bf68648f2a8b096bfab81c0868faac583f60940fd38e4e103bae248a1b86fa"
+        },
+        {
+          "id": "FMA78449",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA78449.stl",
+          "sha256": "3f433927af3ddab9cf4fe0abc7ea0a4a6bf50313ea1697421aedf7bb7a8003eb"
+        },
+        {
+          "id": "FMA78450",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA78450.stl",
+          "sha256": "be9d1bb10ca6ff7636ca1e7ba5d2c93ca488b7e47724872d6b572f1ac60b80eb"
+        },
+        {
+          "id": "FMA78454",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA78454.stl",
+          "sha256": "6bbf2d2d4552a08c20217326a1e978745d6425e75f9b92cf6f59826b4d30e53f"
+        },
+        {
+          "id": "FMA78467",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA78467.stl",
+          "sha256": "b650c942910747d2720ad70fe3865442b52913e6db98f4f58a20dd885e52a762"
+        },
+        {
+          "id": "FMA78469",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA78469.stl",
+          "sha256": "1fc1da3d6e360dcf88d93dbcdfe11507efa46a64a7d10a82a869d927178706e0"
+        }
+      ],
+      "nonMeshConcepts": [
+        "FMA61817",
+        "FMA61824",
+        "FMA61825",
+        "FMA61826",
+        "FMA61833",
+        "FMA61834",
+        "FMA61835",
+        "FMA61841",
+        "FMA61842",
+        "FMA61857",
+        "FMA61859",
+        "FMA61894",
+        "FMA61896",
+        "FMA61897",
+        "FMA61898",
+        "FMA61905",
+        "FMA61906",
+        "FMA61907",
+        "FMA61908",
+        "FMA61918",
+        "FMA61992",
+        "FMA61993",
+        "FMA62000",
+        "FMA62001",
+        "FMA62003",
+        "FMA62007",
+        "FMA62008",
+        "FMA62009",
+        "FMA62023",
+        "FMA62028",
+        "FMA62209",
+        "FMA62211",
+        "FMA62403",
+        "FMA62404",
+        "FMA62424",
+        "FMA62434",
+        "FMA62493",
+        "FMA67325",
+        "FMA67329",
+        "FMA67687",
+        "FMA71114",
+        "FMA72417",
+        "FMA72719",
+        "FMA78448"
+      ],
+      "originalFaces": 1384558,
+      "faces": 24000,
+      "bytes": 628464,
+      "sha256": "88b55399c75b8b940460dbaca43f68d8141160e4fee1fe48e247dee863315b10",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/brain_front.webp",
+          "sha256": "d312edb86a6a2e360f88ca302ee09b98527148bb5acedf304bdfa6a3fa05a8e1"
+        },
+        {
+          "path": "assets/img/brain_back.webp",
+          "sha256": "a1ea93274ab1c7d7347a12c9ff3b1219a2feee77a4a8a7d2a7ecebf688ef5bf2"
+        }
+      ]
+    },
+    {
+      "part": "heart",
+      "path": "assets/models/heart.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA3802",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA3802.stl",
+          "sha256": "a0327d37afecd97067bd8b95396622175e028a863debd418c6ab47e42dd89d03"
+        },
+        {
+          "id": "FMA3818",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA3818.stl",
+          "sha256": "8051eabb657122c11672c033e97e27a42c9e05213654dcdba5fada5c36fe9591"
+        },
+        {
+          "id": "FMA3840nsn",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA3840nsn.stl",
+          "sha256": "4ed012404d7796f4245991dbeafcef7704c051b969e8cee8c6f32d352063eb0b"
+        },
+        {
+          "id": "FMA3862nsn",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA3862nsn.stl",
+          "sha256": "831c5417e07392b91a6eba2f9584ae96912cfb21b75db192dd543500a8cfbc6a"
+        },
+        {
+          "id": "FMA3895",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA3895.stl",
+          "sha256": "bdccf8e75e76ef53555f2a667e135b7670f9f97d87dd10972b651b793a536763"
+        },
+        {
+          "id": "FMA4685",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA4685.stl",
+          "sha256": "1f255ab043b03785f60b080af66ec385c660797ff8796491880d4eed4ca54aad"
+        },
+        {
+          "id": "FMA4706",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA4706.stl",
+          "sha256": "03542a2590c4fa570efccc5e81c9b7936b0968cbad5b4c6d435e1e788481acf3"
+        },
+        {
+          "id": "FMA4707",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA4707.stl",
+          "sha256": "52b0738f4c0f57ea75314c2b548af1853dc7cd818e7c5e8972a0d8516202ea2b"
+        },
+        {
+          "id": "FMA4713",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA4713.stl",
+          "sha256": "fdbc7add270558e42f20604c651e5f8aa17d3c9024bebb8d85aabce5e4cd3509"
+        },
+        {
+          "id": "FMA71567",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA71567.stl",
+          "sha256": "514806aee1f1ccb70037913eae0d54d3d00b17b97bda5fbc88690f6bb0942e6c"
+        },
+        {
+          "id": "FMA71669",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA71669.stl",
+          "sha256": "19e35b9fb9a3ead9f7cd895a17bb09a21a558f921c0cd60361971aad12eae617"
+        },
+        {
+          "id": "FMA71670",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA71670.stl",
+          "sha256": "6122beeab521d053887797e909caa3d3b062b3fd6b5cb36992df6f15877e9544"
+        },
+        {
+          "id": "FMA7234",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7234.stl",
+          "sha256": "96e2470c9ddd5fa0970014235abe2686d4c6084b1ed514edfec37677a7ae377e"
+        },
+        {
+          "id": "FMA7235",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7235.stl",
+          "sha256": "e434d63f98d789acff6943ae244713d524d2abf6aa6020445a46bd24bc03d70c"
+        },
+        {
+          "id": "FMA7246",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7246.stl",
+          "sha256": "b1436a72cf5727be01c02fe08bda7eaefd667af6cfbbcd6261f915a61e7f48dc"
+        },
+        {
+          "id": "FMA7260",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7260.stl",
+          "sha256": "e6fe30295f9d229c227411f001c1616bb763520ca28d0006e51db89137561fa4"
+        },
+        {
+          "id": "FMA7261",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7261.stl",
+          "sha256": "4ebf10dbcb09df59008bc24ea456c1cdc29e1a41bf567e12f03eca0440450853"
+        },
+        {
+          "id": "FMA7262",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7262.stl",
+          "sha256": "1026d3e20fc4b58313f8dffb8f874e871916446091b0adcf4649e32409d0ae0a"
+        },
+        {
+          "id": "FMA7266",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7266.stl",
+          "sha256": "def197ade00b5fca69d916f1329377e51cc589856f96fc6358ede93bbfbe60aa"
+        },
+        {
+          "id": "FMA7274",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7274.stl",
+          "sha256": "ed570773264c7abf73db5f5da20e5e4f69943315e8c5995da850a2821988b0a2"
+        },
+        {
+          "id": "FMA76751",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA76751.stl",
+          "sha256": "1c29635b820858b0a792f3c74d140b0a900fadd0dc47470c2c074ee974a71a1e"
+        },
+        {
+          "id": "FMA76994",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA76994.stl",
+          "sha256": "aaa23cf3637eda7d08bd5102cf1324050806c658a7c1862de299294f533403d4"
+        },
+        {
+          "id": "FMA9352nsn",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA9352nsn.stl",
+          "sha256": "9c881e0cc650b690288d7d5814c324bd1f888c61d0c48ebb7ac767e08d665618"
+        }
+      ],
+      "nonMeshConcepts": [
+        "FMA3840",
+        "FMA3862",
+        "FMA4714",
+        "FMA50039",
+        "FMA50040",
+        "FMA7096",
+        "FMA7097",
+        "FMA7098",
+        "FMA7101",
+        "FMA7133",
+        "FMA7134",
+        "FMA7216",
+        "FMA7259",
+        "FMA9352",
+        "FMA9462"
+      ],
+      "originalFaces": 486768,
+      "faces": 24000,
+      "bytes": 634368,
+      "sha256": "209395ab73ca08d4219887ff0187a74b4d44579398d0fcf11e557ba512a8635d",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/heart_front.webp",
+          "sha256": "884cdb33ecac10d7d43bd9c345394e512c0f9066e0e5b41888065e2cc78b435b"
+        },
+        {
+          "path": "assets/img/heart_back.webp",
+          "sha256": "65cf51592b58342847d0c15fb838cb0cabc9b363237f1c3076866e4e99c1c323"
+        }
+      ]
+    },
+    {
+      "part": "lungs",
+      "path": "assets/models/lungs.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7333",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7333.stl",
+          "sha256": "cd168d6c22d10dcb5e8be3ec88e9a97b33a261fc3e8195001daaac32d964a177"
+        },
+        {
+          "id": "FMA7337",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7337.stl",
+          "sha256": "cfb1641ad8443abd6da3919d3f7565f7d119dc740b7cf91d51d17ae9f2f67eda"
+        },
+        {
+          "id": "FMA7370",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7370.stl",
+          "sha256": "d5e0401182d8af9e9b05f4cac7eb4f728598650645370a15eec83ea1598b7e24"
+        },
+        {
+          "id": "FMA7371",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7371.stl",
+          "sha256": "17419dd2f9d837e162286b8545308893a9377e1f410c6e3c6385b45f1a6e90a3"
+        },
+        {
+          "id": "FMA7383",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7383.stl",
+          "sha256": "a12839911dd06f97d21f716d717a207ad0237dc602ce2ad2ad53fbcd402d4673"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 204408,
+      "faces": 24000,
+      "bytes": 625832,
+      "sha256": "52b9a66af92e0ece74f1d066fbe546ac2f8f453fc1ce88dd7bcd57a70aae4905",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/lungs_front.webp",
+          "sha256": "f502c4116feb4ab6ee3cec3f51170feb5a72daf0e74812a3bc391198c4ba9694"
+        },
+        {
+          "path": "assets/img/lungs_back.webp",
+          "sha256": "29979fc62e95c3b9d3398fe75148e281c4756c0159bde61cc0e9ca4c3fa1541d"
+        }
+      ]
+    },
+    {
+      "part": "liver",
+      "path": "assets/models/liver.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7197",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7197.stl",
+          "sha256": "cbd634ccfbb532b33c01b6a1361dd706e95955de67aa729169d7d68752b6a98d"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 19416,
+      "faces": 19416,
+      "bytes": 506844,
+      "sha256": "00df34eab5a07e9863acc126e9a13dc8931aeb562e03e0ae0caadefd1a462498",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/liver_front.webp",
+          "sha256": "86fa556a30ac55ea892629fe8e2fc8fadcf6b9aefe6e621c3a9436bcdd2f83d2"
+        },
+        {
+          "path": "assets/img/liver_back.webp",
+          "sha256": "f255687042309721268977e551ca1acb70d8e6295b091a73b24f4e1bfec32300"
+        }
+      ]
+    },
+    {
+      "part": "stomach",
+      "path": "assets/models/stomach.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7148",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7148.stl",
+          "sha256": "a6764d20879cf7ba1acd8284c1b0255b20111d8bd3b92838cf97600e6f3d9065"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 9384,
+      "faces": 9384,
+      "bytes": 246008,
+      "sha256": "a8412ce3b27e9d20c692aa55aa0513b700fdd8462c81cd8749084175dfe39b1b",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/stomach_front.webp",
+          "sha256": "636e9890c8e8a2f2d490ee552fdcb5af5cf9882d874ab6e6bb5d10f1df0b42e0"
+        },
+        {
+          "path": "assets/img/stomach_back.webp",
+          "sha256": "1a2391616b67c403af694539c2f20bd7f55ec794f29e43f2d49beac1902b4c40"
+        }
+      ]
+    },
+    {
+      "part": "small_intestine",
+      "path": "assets/models/small_intestine.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7206",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7206.stl",
+          "sha256": "d0917ad9499253cbc836ab418d63c12e6b785b24dd55127ce4d98fe0469e6732"
+        },
+        {
+          "id": "FMA7207",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7207.stl",
+          "sha256": "e75d35ad175976104bc7757605930c0e7715c72830dd86a482950dd9e516e2c8"
+        },
+        {
+          "id": "FMA7208",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7208.stl",
+          "sha256": "47d26fb1bbc906d1b0743255cc049ef8bec28f17b6e00f47976e059c46f2f457"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 74668,
+      "faces": 24000,
+      "bytes": 628576,
+      "sha256": "0798c7e5764d77acc7fd0b371beac263643438b741da92e85f80168581103d38",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/small_intestine_front.webp",
+          "sha256": "2e3a8ea3999b65f20748aa52769a7377a63834dd4ae8344912021e279b3e1aed"
+        },
+        {
+          "path": "assets/img/small_intestine_back.webp",
+          "sha256": "1b71aca1d9a5b70adb7f485067034ee7d400eef66184b1b95dca7530efd89557"
+        }
+      ]
+    },
+    {
+      "part": "pancreas",
+      "path": "assets/models/pancreas.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7198nsn",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7198nsn.stl",
+          "sha256": "884948a0b7f2b274dd67ede43fd1d0aaacc6657451ff0de7eeb0063d261fa4ca"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 11414,
+      "faces": 11414,
+      "bytes": 298860,
+      "sha256": "4d2f8110622a782eb4db0bbbf9dc453fb5d2630189f46f4952efa04b754d8236",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/pancreas_front.webp",
+          "sha256": "febb0a5a0a844647e388f982a18ffe0df29243fcde1e44ab07466d8f5aa220f6"
+        },
+        {
+          "path": "assets/img/pancreas_back.webp",
+          "sha256": "102dabcc193cdb5e4e347f4198daca9383aa7a9ba8f4485e73068a5e5ba8b509"
+        }
+      ]
+    },
+    {
+      "part": "gallbladder",
+      "path": "assets/models/gallbladder.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7202",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7202.stl",
+          "sha256": "10576dcce2d437622b5d951a0edaae53648d80814706b5b2fac1044627ce8d95"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 13846,
+      "faces": 13846,
+      "bytes": 362024,
+      "sha256": "151ed136e2f21205b411237067aa2d414bdb6db15d41ccd94c6f43e0c2adc21a",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/gallbladder_front.webp",
+          "sha256": "355e5dc52e78b355b3edae036c66b41c79df58d7201c368d208743481ea2fb17"
+        },
+        {
+          "path": "assets/img/gallbladder_back.webp",
+          "sha256": "d9b2a53a83c923082af8f498001cdb87b7a11c35be4b0a133432182958f7eedf"
+        }
+      ]
+    },
+    {
+      "part": "kidneys",
+      "path": "assets/models/kidneys.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7204",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7204.stl",
+          "sha256": "c69330266787669e89ef343ea294ca3fdcf0205382079c4b38e1b7252863d6f3"
+        },
+        {
+          "id": "FMA7205",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7205.stl",
+          "sha256": "b93be6a9ef9fa237bb1231b5c895cd938b25920266bb1400537b4319f4a35cdb"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 27752,
+      "faces": 24000,
+      "bytes": 625556,
+      "sha256": "614445b40424834ddb838dbcf46bc692bb95ec83f091f33e80c4f9a1c1b78bb3",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/kidneys_front.webp",
+          "sha256": "53013f5eb3c57f7c8066f085e9b742d38815ce28ef50e5f42b11ed945c1e4fb1"
+        },
+        {
+          "path": "assets/img/kidneys_back.webp",
+          "sha256": "d07571d1070abc1fe743b9a39b3f21f99ce0ff3d9d603e4e0b59ad69877bf65c"
+        }
+      ]
+    },
+    {
+      "part": "bladder",
+      "path": "assets/models/bladder.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA15900",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA15900.stl",
+          "sha256": "7a6badc84de63ac6c62acc8c2de1084c19885df1cbceb17ae02354c000a45b68"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 4016,
+      "faces": 4016,
+      "bytes": 106440,
+      "sha256": "1c71226ef853f08de005613052bd2583ed3f53836a81aa2e4e0d6e0d51ef91e7",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/bladder_front.webp",
+          "sha256": "7377445d62517a95627bdc2766667cdde3662743a5d9dc1cad4b7bd4d252780a"
+        },
+        {
+          "path": "assets/img/bladder_back.webp",
+          "sha256": "fb2c999d221b78cf517282bf530963bf97c25dd874dec7f7c468034f221c1875"
+        }
+      ]
+    },
+    {
+      "part": "spleen",
+      "path": "assets/models/spleen.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7196",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7196.stl",
+          "sha256": "72c0248b1e35490c66a0d0bde0ecdde6a362f3940a5bb6d3e770718ff5eeb94a"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 9016,
+      "faces": 9016,
+      "bytes": 236444,
+      "sha256": "7590dff3ce0c4a363b22628df2bf1eb4120b27098e6cf0815041d17b0bbe70a5",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/spleen_front.webp",
+          "sha256": "daf554ecf082a76b3c040452a8454852540f1718c02c8163e7e1e3013a4c5195"
+        },
+        {
+          "path": "assets/img/spleen_back.webp",
+          "sha256": "2399ac44caaff9bd91ab93f28d2a9586546888c27754675f0f8c22b4a256626f"
+        }
+      ]
+    },
+    {
+      "part": "thymus",
+      "path": "assets/models/thymus.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA71194",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA71194.stl",
+          "sha256": "ceb34fae4ffcf10f560e9285165c4a613c9e264a7d54d824ed567cffc537cd28"
+        },
+        {
+          "id": "FMA71195",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA71195.stl",
+          "sha256": "0f80921398f38201517c617a086d967d611ebb6506701ac2412b5b7c7d2d0439"
+        }
+      ],
+      "nonMeshConcepts": [
+        "FMA71193"
+      ],
+      "originalFaces": 78212,
+      "faces": 24000,
+      "bytes": 625556,
+      "sha256": "4669e8c87744633d4b5629e9859a51893440ad1b04fc1d231e5628525efbf2ce",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/thymus_front.webp",
+          "sha256": "11f3126a4ddb06901c5309efc08327388b6e0bd496cd434744a2a0e5cb626281"
+        },
+        {
+          "path": "assets/img/thymus_back.webp",
+          "sha256": "95f20b7db03e3b012a1465a74a238565f5978e1a23cff261e3ec6fc2cb7a5a26"
+        }
+      ]
+    },
+    {
+      "part": "pituitary",
+      "path": "assets/models/pituitary.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA13889",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA13889.stl",
+          "sha256": "23355459e7a025368378b5cc93488e1502921074ba0c2a9cb85b4531d245715c"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 5052,
+      "faces": 5052,
+      "bytes": 133380,
+      "sha256": "b43733f946c35e4ecf860774f5416ea95152bf317a097b37959a107ec06f0589",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/pituitary_front.webp",
+          "sha256": "e2653396c3cbf9dee684f2e7ad5e8414dc6f1b11ca2cfe4b1195b729ed5b0f9b"
+        },
+        {
+          "path": "assets/img/pituitary_back.webp",
+          "sha256": "5c84bc5afed71ee6fdd44a3cf0cfbe237c31796854edbf0e6b9823219ba47f9b"
+        }
+      ]
+    },
+    {
+      "part": "adrenal",
+      "path": "assets/models/adrenal.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA15629",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA15629.stl",
+          "sha256": "d95183a434b4f62d8ebcfe34fff67ede03b13e989fcb76b7bb2899d34aaf1e25"
+        },
+        {
+          "id": "FMA15630",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA15630.stl",
+          "sha256": "b13f1d7441cbada25aeb9b076e72f9ed26f2b64d1907c9be24ec7f1c95ea90b8"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 29662,
+      "faces": 24000,
+      "bytes": 625556,
+      "sha256": "f2277656fd98592d10365136c924c5d6d75cb766f74870a65b8b7d58672258b0",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/adrenal_front.webp",
+          "sha256": "b862cb6dd00253dd1641c64177fea0069516ebf468abc62d8b0c466035422100"
+        },
+        {
+          "path": "assets/img/adrenal_back.webp",
+          "sha256": "177cd541d554099f41f985d214d7f32d94f9c650933e90579f81b8c1f22c9ac4"
+        }
+      ]
+    },
+    {
+      "part": "femur",
+      "path": "assets/models/femur.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA24474",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA24474.stl",
+          "sha256": "a47d03f9a1064bab3db90876e05729924e8c4667c78c1e6373fb42d191cd5563"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 12990,
+      "faces": 12990,
+      "bytes": 339772,
+      "sha256": "be3584c26d16fc839d3c3484280a5f30ccbd9a84062d2ad7aced0f3c65637355",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/femur_front.webp",
+          "sha256": "a975733e166d71902effd1bfbd3dea1c9228da33db26e4c1dfa0eb202ec54fb3"
+        },
+        {
+          "path": "assets/img/femur_back.webp",
+          "sha256": "420b986eede3810623f1337d104c346fc13d1839bf5e0a3d3403855e881fc823"
+        }
+      ]
+    },
+    {
+      "part": "biceps",
+      "path": "assets/models/biceps.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA37684",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA37684.stl",
+          "sha256": "254c2b9528925155b360d919be825040fd6fb46f9fcf006a9969f25d738a50b0"
+        },
+        {
+          "id": "FMA37686",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA37686.stl",
+          "sha256": "1ceb9b9892b4cfe905d108cd096a24c9ea0c20bbe182364d748852e1eaeab344"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 60106,
+      "faces": 24000,
+      "bytes": 625640,
+      "sha256": "fb79b5a3b6342267069be8632a73514a6b0be951a84a82bb6e08e5181eb1ceeb",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/biceps_front.webp",
+          "sha256": "12177d679de60b0502b49f2b5cac2e6569878735520f8ebeeb217aff18031416"
+        },
+        {
+          "path": "assets/img/biceps_back.webp",
+          "sha256": "0ecc0ffd01eef0faadb18f8271d83700d597a2c0ea3ab9de27d864a93592ea2c"
+        }
+      ]
+    },
+    {
+      "part": "diaphragm",
+      "path": "assets/models/diaphragm.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA13295",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA13295.stl",
+          "sha256": "c795e5300bf93f81805de8e2788449d9230da2c1bc93a005bb995c691b3fae84"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 210666,
+      "faces": 24000,
+      "bytes": 625388,
+      "sha256": "026bcef23b337e732d7c2b1fc2190cc62b7e6c20973c7f2e8a3a96c0007e0d1a",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/diaphragm_front.webp",
+          "sha256": "72bd8a8f0cfe6209bb02b019da4610ca576cae6239575364cee4daf884b1874f"
+        },
+        {
+          "path": "assets/img/diaphragm_back.webp",
+          "sha256": "2e4f55a28642099bc7a916c30f0099ebba17803b3304d796eea9342f66c0dfed"
+        }
+      ]
+    },
+    {
+      "part": "spinal_cord",
+      "path": "assets/models/spinal_cord.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA78497",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA78497.stl",
+          "sha256": "3665ee3bef0d4514352ebecceacede566a5bc77209eaa5fd6402a947152ec1e2"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 3162,
+      "faces": 3162,
+      "bytes": 84240,
+      "sha256": "494eb69f12ab5f15ed043d73375f86dc6874467143dcab3d4ad9e55f5ac66e9c",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/spinal_cord_front.webp",
+          "sha256": "108da910bc8d06cc36c2e1e618c53c14cc8c785400336ab9aa742b87050c781a"
+        },
+        {
+          "path": "assets/img/spinal_cord_back.webp",
+          "sha256": "c083eea5cc9bcff0bd34100f43c9e9457214150e81f00397be2d376b0b571a1a"
+        }
+      ]
+    },
+    {
+      "part": "testes",
+      "path": "assets/models/testes.glb",
+      "license": "CC-BY-SA-2.1-JP",
+      "credit": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan",
+      "sourceRevision": "f0eeb6e843380cfe6b83797cf8c3e1af74de5e61",
+      "sourceProject": "https://github.com/Kevin-Mattheus-Moerman/BodyParts3D",
+      "sources": [
+        {
+          "id": "FMA7211",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7211.stl",
+          "sha256": "a0f7ad9cd379ffeff78bc52184a639d781289089d98324fae638ff1f4de6b7da"
+        },
+        {
+          "id": "FMA7212",
+          "url": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/f0eeb6e843380cfe6b83797cf8c3e1af74de5e61/assets/BodyParts3D_data/stl/FMA7212.stl",
+          "sha256": "765d8992a6cf1096b07502c0a67af9e78aa980834fc33aa7e0fd3486f0dfc4c9"
+        }
+      ],
+      "nonMeshConcepts": [],
+      "originalFaces": 558,
+      "faces": 558,
+      "bytes": 16024,
+      "sha256": "3340a7ab8636e34506d21f3c4ca3e20b2e60f949a1d3873a70a010d8e5c5165b",
+      "adaptations": "Composite mesh assembly; quadric decimation to at most 24k triangles; Z-up to Y-up rotation; centering; uniform scale; solid material; orthographic WebP renders.",
+      "images": [
+        {
+          "path": "assets/img/testes_front.webp",
+          "sha256": "0a1cfcc8aa2204abbe3a81edab830e4f70fa00aae20c7ef089e6e448d476cdd0"
+        },
+        {
+          "path": "assets/img/testes_back.webp",
+          "sha256": "5e5a2e3137fe5130782eae2334abea099e8aa28e5b364c4374445f7b0674f0f1"
+        }
+      ]
+    }
+  ]
+}

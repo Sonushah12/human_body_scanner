@@ -1,0 +1,2 @@
+Original AnatoMorph schematic SVG illustrations and body silhouette. MIT license. These are schematic educational illustrations, not clinical images.
+See the project LICENSE.

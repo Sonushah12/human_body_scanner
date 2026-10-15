@@ -1,0 +1,1385 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "1.0.0",
+  "contentLanguage": "en",
+  "reviewStatus": "medical_review_pending",
+  "parts": [
+    {
+      "id": "brain",
+      "latin": "Encephalon",
+      "system": "nervous",
+      "overview": "The brain is the central processing organ of the nervous system. The cerebrum, diencephalon, brainstem and cerebellum work together to coordinate conscious experience and essential body functions.",
+      "function": "Integrates sensation, plans and controls movement, supports learning and memory, and regulates autonomic and endocrine activity.",
+      "location": "Inside the cranial cavity, protected by the skull, meninges and cerebrospinal fluid.",
+      "bloodSupply": "Internal carotid and vertebral arteries contribute to the cerebral circulation. Their branches communicate around the base of the brain in the arterial circle.",
+      "innervation": "Neural pathways connect brain regions with the spinal cord and cranial nerves. Brain tissue itself lacks the pain receptors found in surrounding meninges and vessels.",
+      "clinicalNotes": [
+        "Different cerebral regions support different functions; lesion location matters as well as lesion size.",
+        "The atlas illustrates a reference surface and does not show an individual patient or every internal brain structure."
+      ],
+      "name": {
+        "en": "Brain",
+        "hi": "मस्तिष्क",
+        "gu": "મગજ"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.085,
+        "scale": 0.23
+      },
+      "depthOrder": 5,
+      "svg": "assets/svg/brain.svg",
+      "model3d": "assets/models/brain.glb",
+      "images": [
+        "assets/img/brain_front.webp",
+        "assets/img/brain_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system",
+          "section": "13.2"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "brain_1",
+          "q": "Which structure is especially important for coordination and balance?",
+          "question": "Which structure is especially important for coordination and balance?",
+          "options": [
+            "Pituitary gland",
+            "Cerebellum",
+            "Spleen",
+            "Urinary bladder"
+          ],
+          "answer": 1,
+          "explanation": "The cerebellum helps coordinate movement, timing and balance."
+        },
+        {
+          "id": "brain_2",
+          "q": "Where is the brain located?",
+          "question": "Where is the brain located?",
+          "options": [
+            "Cranial cavity",
+            "Pleural cavity",
+            "Pelvic cavity",
+            "Peritoneal cavity"
+          ],
+          "answer": 0,
+          "explanation": "The brain lies within the cranial cavity and is protected by the skull and meninges."
+        }
+      ]
+    },
+    {
+      "id": "heart",
+      "latin": "Cor",
+      "system": "cardiovascular",
+      "overview": "The heart is a muscular pump with two atria and two ventricles. Its right and left sides move blood through the pulmonary and systemic circulations respectively.",
+      "function": "Generates the pressure needed to circulate blood. Valves promote one-way flow, while the conduction system coordinates contractions.",
+      "location": "In the middle mediastinum within the pericardium, between the lungs. Most of its mass lies to the left of the midline.",
+      "bloodSupply": "The right and left coronary arteries arise from the ascending aorta. Most cardiac venous blood returns through the coronary sinus to the right atrium.",
+      "innervation": "Sympathetic cardiac nerves and parasympathetic fibers from the vagus nerve influence rate and conduction. Specialized cardiac cells generate the normal rhythm.",
+      "clinicalNotes": [
+        "Myocardial oxygen delivery depends on coronary circulation; coronary obstruction can injure cardiac muscle.",
+        "Heart valves have distinct positions and auscultation areas. A schematic body location is not an auscultation guide."
+      ],
+      "name": {
+        "en": "Heart",
+        "hi": "हृदय",
+        "gu": "હૃદય"
+      },
+      "bodyPosition": {
+        "x": 0.54,
+        "y": 0.29,
+        "scale": 0.2
+      },
+      "depthOrder": 3,
+      "svg": "assets/svg/heart.svg",
+      "model3d": "assets/models/heart.glb",
+      "images": [
+        "assets/img/heart_front.webp",
+        "assets/img/heart_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+          "section": "19.1"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "heart_1",
+          "q": "Which chamber normally pumps blood into the aorta?",
+          "question": "Which chamber normally pumps blood into the aorta?",
+          "options": [
+            "Right atrium",
+            "Right ventricle",
+            "Left ventricle",
+            "Left atrium"
+          ],
+          "answer": 2,
+          "explanation": "The left ventricle ejects blood into the aorta for systemic circulation."
+        },
+        {
+          "id": "heart_2",
+          "q": "The coronary arteries supply which tissue?",
+          "question": "The coronary arteries supply which tissue?",
+          "options": [
+            "Heart muscle",
+            "Alveolar air",
+            "Bladder lumen",
+            "Epidermal surface"
+          ],
+          "answer": 0,
+          "explanation": "Coronary arteries supply the myocardium with oxygenated blood."
+        }
+      ]
+    },
+    {
+      "id": "lungs",
+      "latin": "Pulmones",
+      "system": "respiratory",
+      "overview": "The paired lungs contain branching airways and alveoli. The right lung usually has three lobes; the left has two and a cardiac notch.",
+      "function": "Provide a large surface for exchange of oxygen and carbon dioxide between alveolar air and pulmonary capillary blood.",
+      "location": "Within the right and left pleural cavities of the thorax, on either side of the mediastinum and above the diaphragm.",
+      "bloodSupply": "Pulmonary arteries carry blood for gas exchange; pulmonary veins return it to the left atrium. Bronchial arteries supply supporting lung tissues.",
+      "innervation": "Pulmonary plexuses carry vagal parasympathetic and sympathetic fibers that influence airway smooth muscle and glands.",
+      "clinicalNotes": [
+        "The pleura and pressure relationships in the thorax are important for ventilation.",
+        "A surface mesh cannot display alveolar microstructure or establish respiratory disease."
+      ],
+      "name": {
+        "en": "Lungs",
+        "hi": "फेफड़े",
+        "gu": "ફેફસાં"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.285,
+        "scale": 0.34
+      },
+      "depthOrder": 2,
+      "svg": "assets/svg/lungs.svg",
+      "model3d": "assets/models/lungs.glb",
+      "images": [
+        "assets/img/lungs_front.webp",
+        "assets/img/lungs_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs",
+          "section": "22.2"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "lungs_1",
+          "q": "How many lobes does the right lung usually have?",
+          "question": "How many lobes does the right lung usually have?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "answer": 2,
+          "explanation": "The right lung usually has upper, middle and lower lobes."
+        },
+        {
+          "id": "lungs_2",
+          "q": "Where does most gas exchange occur?",
+          "question": "Where does most gas exchange occur?",
+          "options": [
+            "Trachea",
+            "Alveoli",
+            "Larynx",
+            "Main bronchus"
+          ],
+          "answer": 1,
+          "explanation": "Thin alveolar walls and surrounding capillaries support gas exchange."
+        }
+      ]
+    },
+    {
+      "id": "liver",
+      "latin": "Hepar",
+      "system": "digestive",
+      "overview": "The liver is a large gland with important metabolic, synthetic and digestive roles. Its tissue is arranged around an extensive vascular network.",
+      "function": "Produces bile, processes absorbed nutrients, synthesizes many plasma proteins, stores selected nutrients and participates in metabolism of numerous substances.",
+      "location": "Mainly in the right upper abdomen beneath the diaphragm, extending into the epigastric region.",
+      "bloodSupply": "Receives blood from the hepatic artery and hepatic portal vein. Hepatic veins drain into the inferior vena cava.",
+      "innervation": "Autonomic fibers reach the liver through the hepatic plexus, including sympathetic and vagal parasympathetic pathways.",
+      "clinicalNotes": [
+        "Portal blood brings absorbed materials from the digestive tract to the liver.",
+        "The liver has several segmental descriptions; the introductory mesh does not identify a surgical resection plane."
+      ],
+      "name": {
+        "en": "Liver",
+        "hi": "यकृत",
+        "gu": "યકૃત"
+      },
+      "bodyPosition": {
+        "x": 0.4,
+        "y": 0.395,
+        "scale": 0.32
+      },
+      "depthOrder": 3,
+      "svg": "assets/svg/liver.svg",
+      "model3d": "assets/models/liver.glb",
+      "images": [
+        "assets/img/liver_front.webp",
+        "assets/img/liver_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+          "section": "23.6"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "liver_1",
+          "q": "Which vein delivers much of the absorbed nutrient-rich blood to the liver?",
+          "question": "Which vein delivers much of the absorbed nutrient-rich blood to the liver?",
+          "options": [
+            "Pulmonary vein",
+            "Hepatic portal vein",
+            "Coronary sinus",
+            "Femoral vein"
+          ],
+          "answer": 1,
+          "explanation": "The hepatic portal vein brings blood from much of the digestive tract to the liver."
+        },
+        {
+          "id": "liver_2",
+          "q": "Which digestive fluid is produced by the liver?",
+          "question": "Which digestive fluid is produced by the liver?",
+          "options": [
+            "Bile",
+            "Saliva",
+            "Cerebrospinal fluid",
+            "Synovial fluid"
+          ],
+          "answer": 0,
+          "explanation": "The liver produces bile; the gallbladder stores and concentrates it."
+        }
+      ]
+    },
+    {
+      "id": "stomach",
+      "latin": "Gaster",
+      "system": "digestive",
+      "overview": "The stomach is a distensible muscular organ between the esophagus and duodenum. Its regions include the cardia, fundus, body and pyloric part.",
+      "function": "Stores a meal temporarily, mixes it into chyme, secretes acid and digestive enzymes, and produces intrinsic factor needed for vitamin B12 absorption.",
+      "location": "Mainly in the left upper abdomen and epigastrium. Shape and position vary with filling and body habitus.",
+      "bloodSupply": "Branches of the celiac arterial system supply the stomach, including gastric, gastro-omental and short gastric arteries. Venous drainage enters the portal system.",
+      "innervation": "Vagal parasympathetic pathways, sympathetic fibers through the celiac plexus and the enteric nervous system regulate activity.",
+      "clinicalNotes": [
+        "The gastric mucosal barrier helps protect tissue from acid and digestive enzymes.",
+        "Stomach position changes with filling; the body illustration is an approximate location."
+      ],
+      "name": {
+        "en": "Stomach",
+        "hi": "आमाशय",
+        "gu": "જઠર"
+      },
+      "bodyPosition": {
+        "x": 0.57,
+        "y": 0.425,
+        "scale": 0.25
+      },
+      "depthOrder": 4,
+      "svg": "assets/svg/stomach.svg",
+      "model3d": "assets/models/stomach.glb",
+      "images": [
+        "assets/img/stomach_front.webp",
+        "assets/img/stomach_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach",
+          "section": "23.4"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "stomach_1",
+          "q": "The stomach empties directly into which structure?",
+          "question": "The stomach empties directly into which structure?",
+          "options": [
+            "Ileum",
+            "Cecum",
+            "Duodenum",
+            "Colon"
+          ],
+          "answer": 2,
+          "explanation": "The pyloric outlet of the stomach opens into the duodenum."
+        },
+        {
+          "id": "stomach_2",
+          "q": "Intrinsic factor is important for absorption of which vitamin?",
+          "question": "Intrinsic factor is important for absorption of which vitamin?",
+          "options": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Vitamin K",
+            "Vitamin D"
+          ],
+          "answer": 1,
+          "explanation": "Intrinsic factor binds vitamin B12 and supports its absorption in the terminal ileum."
+        }
+      ]
+    },
+    {
+      "id": "small_intestine",
+      "latin": "Intestinum tenue",
+      "system": "digestive",
+      "overview": "The small intestine consists of the duodenum, jejunum and ileum. Folds, villi and microvilli greatly increase its absorptive surface.",
+      "function": "Completes much of chemical digestion and absorbs most nutrients into blood or lymph.",
+      "location": "Extends from the stomach to the ileocecal junction. The jejunum and ileum form mobile loops in the abdominal cavity.",
+      "bloodSupply": "The duodenum receives pancreaticoduodenal branches from celiac and superior mesenteric territories. Jejunal and ileal branches arise from the superior mesenteric artery.",
+      "innervation": "Enteric circuits coordinate local activity, modified by vagal parasympathetic and sympathetic pathways.",
+      "clinicalNotes": [
+        "The terminal ileum has a particular role in uptake of bile salts and vitamin B12.",
+        "A surface atlas does not show the microscopic absorptive structures."
+      ],
+      "name": {
+        "en": "Small intestine",
+        "hi": "छोटी आंत",
+        "gu": "નાનું આંતરડું"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.535,
+        "scale": 0.32
+      },
+      "depthOrder": 4,
+      "svg": "assets/svg/small_intestine.svg",
+      "model3d": "assets/models/small_intestine.glb",
+      "images": [
+        "assets/img/small_intestine_front.webp",
+        "assets/img/small_intestine_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines",
+          "section": "23.5"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "small_intestine_1",
+          "q": "Which is the correct proximal-to-distal order?",
+          "question": "Which is the correct proximal-to-distal order?",
+          "options": [
+            "Ileum, jejunum, duodenum",
+            "Jejunum, ileum, duodenum",
+            "Duodenum, jejunum, ileum",
+            "Duodenum, ileum, jejunum"
+          ],
+          "answer": 2,
+          "explanation": "From the stomach, contents pass through the duodenum, then jejunum, then ileum."
+        },
+        {
+          "id": "small_intestine_2",
+          "q": "Villi mainly increase which property?",
+          "question": "Villi mainly increase which property?",
+          "options": [
+            "Absorptive surface area",
+            "Bone density",
+            "Airway pressure",
+            "Cardiac output"
+          ],
+          "answer": 0,
+          "explanation": "Villi increase the surface available for intestinal absorption."
+        }
+      ]
+    },
+    {
+      "id": "pancreas",
+      "latin": "Pancreas",
+      "system": "digestive",
+      "overview": "The pancreas contains exocrine acini and endocrine islets. Its head, neck, body and tail extend across the upper abdomen.",
+      "function": "Delivers digestive enzymes and bicarbonate to the duodenum. Islet hormones, including insulin and glucagon, help regulate blood glucose.",
+      "location": "Mostly retroperitoneal, posterior to the stomach. The head lies within the duodenal curve and the tail approaches the spleen.",
+      "bloodSupply": "Pancreaticoduodenal arteries supply much of the head. Pancreatic branches of the splenic artery supply much of the body and tail.",
+      "innervation": "Vagal parasympathetic and sympathetic fibers reach the pancreas through abdominal autonomic plexuses.",
+      "clinicalNotes": [
+        "The pancreatic duct and biliary pathways have a close anatomical relationship near the duodenum.",
+        "Exocrine and endocrine functions belong to different cellular components within the same organ."
+      ],
+      "name": {
+        "en": "Pancreas",
+        "hi": "अग्न्याशय",
+        "gu": "સ્વાદુપિંડ"
+      },
+      "bodyPosition": {
+        "x": 0.51,
+        "y": 0.435,
+        "scale": 0.24
+      },
+      "depthOrder": 5,
+      "svg": "assets/svg/pancreas.svg",
+      "model3d": "assets/models/pancreas.glb",
+      "images": [
+        "assets/img/pancreas_front.webp",
+        "assets/img/pancreas_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+          "section": "23.6"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "pancreas_1",
+          "q": "Which pancreatic component releases insulin?",
+          "question": "Which pancreatic component releases insulin?",
+          "options": [
+            "Acinar cells",
+            "Islet beta cells",
+            "Pancreatic duct epithelium",
+            "Red blood cells"
+          ],
+          "answer": 1,
+          "explanation": "Beta cells in pancreatic islets release insulin."
+        },
+        {
+          "id": "pancreas_2",
+          "q": "Most of the pancreas lies in which position?",
+          "question": "Most of the pancreas lies in which position?",
+          "options": [
+            "Inside the cranial cavity",
+            "Anterior to the sternum",
+            "Retroperitoneal",
+            "Inside the urinary bladder"
+          ],
+          "answer": 2,
+          "explanation": "Most of the pancreas is retroperitoneal, behind the stomach."
+        }
+      ]
+    },
+    {
+      "id": "gallbladder",
+      "latin": "Vesica biliaris",
+      "system": "digestive",
+      "overview": "The gallbladder is a small hollow organ connected to the biliary ducts by the cystic duct.",
+      "function": "Stores and concentrates bile between meals, then releases it into the biliary pathway.",
+      "location": "In a fossa on the inferior surface of the liver in the right upper abdomen.",
+      "bloodSupply": "Usually supplied by the cystic artery, commonly a branch of the right hepatic artery. Vascular patterns vary.",
+      "innervation": "Autonomic fibers arrive through the celiac and hepatic plexuses, with vagal parasympathetic contributions.",
+      "clinicalNotes": [
+        "Biliary anatomy and arterial branching show clinically important variations.",
+        "Gallstones are solid material within the biliary system; a reference mesh is not a way to detect them."
+      ],
+      "name": {
+        "en": "Gallbladder",
+        "hi": "पित्ताशय",
+        "gu": "પિત્તાશય"
+      },
+      "bodyPosition": {
+        "x": 0.4,
+        "y": 0.44,
+        "scale": 0.13
+      },
+      "depthOrder": 4,
+      "svg": "assets/svg/gallbladder.svg",
+      "model3d": "assets/models/gallbladder.glb",
+      "images": [
+        "assets/img/gallbladder_front.webp",
+        "assets/img/gallbladder_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+          "section": "23.6"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "gallbladder_1",
+          "q": "The gallbladder mainly stores which substance?",
+          "question": "The gallbladder mainly stores which substance?",
+          "options": [
+            "Insulin",
+            "Urine",
+            "Bile",
+            "Cerebrospinal fluid"
+          ],
+          "answer": 2,
+          "explanation": "Bile is produced by the liver and stored and concentrated in the gallbladder."
+        },
+        {
+          "id": "gallbladder_2",
+          "q": "Which duct connects the gallbladder to the biliary tree?",
+          "question": "Which duct connects the gallbladder to the biliary tree?",
+          "options": [
+            "Cystic duct",
+            "Ureter",
+            "Thoracic duct",
+            "Pancreatic acinus"
+          ],
+          "answer": 0,
+          "explanation": "The cystic duct connects the gallbladder with the common hepatic duct pathway."
+        }
+      ]
+    },
+    {
+      "id": "kidneys",
+      "latin": "Renes",
+      "system": "urinary",
+      "overview": "The paired kidneys contain cortex and medulla organized around a collecting system. Nephrons are their functional filtration and processing units.",
+      "function": "Form urine, regulate fluid and electrolyte balance, contribute to acid-base control, and produce hormones involved in blood pressure and red cell production.",
+      "location": "Retroperitoneal on either side of the vertebral column. The right kidney is usually slightly lower than the left.",
+      "bloodSupply": "Renal arteries arise from the abdominal aorta. Renal veins drain into the inferior vena cava.",
+      "innervation": "The renal plexus carries predominantly sympathetic fibers that influence renal vascular tone and other functions.",
+      "clinicalNotes": [
+        "Renal filtration depends on specialized microanatomy that is not visible in a surface model.",
+        "The renal hilum transmits vessels, nerves and the pelvis of the collecting system."
+      ],
+      "name": {
+        "en": "Kidneys",
+        "hi": "गुर्दे",
+        "gu": "મૂત્રપિંડ"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.455,
+        "scale": 0.3
+      },
+      "depthOrder": 5,
+      "svg": "assets/svg/kidneys.svg",
+      "model3d": "assets/models/kidneys.glb",
+      "images": [
+        "assets/img/kidneys_front.webp",
+        "assets/img/kidneys_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney",
+          "section": "25.3"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "kidneys_1",
+          "q": "What is the functional unit of the kidney?",
+          "question": "What is the functional unit of the kidney?",
+          "options": [
+            "Alveolus",
+            "Nephron",
+            "Osteon",
+            "Sarcomere"
+          ],
+          "answer": 1,
+          "explanation": "Nephrons filter plasma and modify the filtrate through tubular processes."
+        },
+        {
+          "id": "kidneys_2",
+          "q": "The kidneys are generally located where?",
+          "question": "The kidneys are generally located where?",
+          "options": [
+            "Retroperitoneal",
+            "Within the pleural cavities",
+            "Inside the skull",
+            "Within the pericardium"
+          ],
+          "answer": 0,
+          "explanation": "The kidneys lie behind the peritoneum on the posterior abdominal wall."
+        }
+      ]
+    },
+    {
+      "id": "bladder",
+      "latin": "Vesica urinaria",
+      "system": "urinary",
+      "overview": "The urinary bladder is a distensible hollow organ with a muscular wall. Ureters enter it, and the urethra carries urine away.",
+      "function": "Stores urine and participates in coordinated emptying through contraction of the detrusor and control of the outlet.",
+      "location": "In the pelvis behind the pubic symphysis when relatively empty. A full bladder extends upward into the lower abdomen.",
+      "bloodSupply": "Vesical branches of the internal iliac arterial system supply the bladder; the exact pattern differs between individuals.",
+      "innervation": "Parasympathetic pelvic splanchnic pathways support detrusor contraction. Sympathetic and somatic pathways participate in storage and outlet control.",
+      "clinicalNotes": [
+        "Bladder size and position change substantially as it fills.",
+        "Storage and emptying depend on coordinated neural pathways as well as bladder muscle."
+      ],
+      "name": {
+        "en": "Urinary bladder",
+        "hi": "मूत्राशय",
+        "gu": "મૂત્રાશય"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.625,
+        "scale": 0.18
+      },
+      "depthOrder": 3,
+      "svg": "assets/svg/bladder.svg",
+      "model3d": "assets/models/bladder.glb",
+      "images": [
+        "assets/img/bladder_front.webp",
+        "assets/img/bladder_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport",
+          "section": "25.2"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "bladder_1",
+          "q": "Which muscle forms much of the bladder wall?",
+          "question": "Which muscle forms much of the bladder wall?",
+          "options": [
+            "Biceps",
+            "Detrusor",
+            "Diaphragm",
+            "Masseter"
+          ],
+          "answer": 1,
+          "explanation": "The detrusor is the smooth muscle layer responsible for bladder contraction."
+        },
+        {
+          "id": "bladder_2",
+          "q": "Which tubes carry urine from kidneys to bladder?",
+          "question": "Which tubes carry urine from kidneys to bladder?",
+          "options": [
+            "Ureters",
+            "Urethrae",
+            "Bronchi",
+            "Bile ducts"
+          ],
+          "answer": 0,
+          "explanation": "Ureters convey urine to the bladder; the urethra carries it outward."
+        }
+      ]
+    },
+    {
+      "id": "spleen",
+      "latin": "Lien",
+      "system": "lymphatic",
+      "overview": "The spleen is a lymphoid organ with red pulp and white pulp. It monitors blood rather than filtering lymph.",
+      "function": "Participates in immune responses to blood-borne material, removes aging blood cells and helps recycle their components.",
+      "location": "In the left upper abdomen, adjacent to the stomach and below the diaphragm.",
+      "bloodSupply": "The splenic artery is a branch of the celiac trunk. The splenic vein contributes to formation of the hepatic portal vein.",
+      "innervation": "Autonomic fibers reach the spleen through the splenic plexus and are predominantly sympathetic.",
+      "clinicalNotes": [
+        "The spleen has a close relationship with the lower left ribs and adjacent abdominal organs.",
+        "A person can survive without a spleen, but splenic immune functions remain important."
+      ],
+      "name": {
+        "en": "Spleen",
+        "hi": "प्लीहा",
+        "gu": "બરોળ"
+      },
+      "bodyPosition": {
+        "x": 0.65,
+        "y": 0.415,
+        "scale": 0.16
+      },
+      "depthOrder": 3,
+      "svg": "assets/svg/spleen.svg",
+      "model3d": "assets/models/spleen.glb",
+      "images": [
+        "assets/img/spleen_front.webp",
+        "assets/img/spleen_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems",
+          "section": "21.1"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "spleen_1",
+          "q": "The spleen principally filters which fluid?",
+          "question": "The spleen principally filters which fluid?",
+          "options": [
+            "Bile",
+            "Urine",
+            "Blood",
+            "Alveolar air"
+          ],
+          "answer": 2,
+          "explanation": "The spleen monitors and filters blood; lymph nodes filter lymph."
+        },
+        {
+          "id": "spleen_2",
+          "q": "The spleen usually lies in which abdominal region?",
+          "question": "The spleen usually lies in which abdominal region?",
+          "options": [
+            "Left upper",
+            "Right lower",
+            "Right upper only",
+            "Midline pelvis"
+          ],
+          "answer": 0,
+          "explanation": "The spleen is usually located in the left upper abdomen."
+        }
+      ]
+    },
+    {
+      "id": "thymus",
+      "latin": "Thymus",
+      "system": "lymphatic",
+      "overview": "The thymus is a primary lymphoid organ with lobules containing a cortex and medulla. It is most prominent earlier in life.",
+      "function": "Provides the environment for development and selection of T lymphocytes.",
+      "location": "Mainly in the anterior superior mediastinum, sometimes extending into the lower neck.",
+      "bloodSupply": "Branches from nearby thoracic and cervical arteries, including internal thoracic and inferior thyroid vessels, contribute to its supply.",
+      "innervation": "Autonomic fibers accompany vessels; immune and endocrine signals are central to thymic function.",
+      "clinicalNotes": [
+        "Thymic tissue normally undergoes age-related involution and increasing fatty replacement.",
+        "The reference adult mesh does not represent the typical thymus of every age group."
+      ],
+      "name": {
+        "en": "Thymus",
+        "hi": "थाइमस",
+        "gu": "થાઇમસ"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.24,
+        "scale": 0.15
+      },
+      "depthOrder": 4,
+      "svg": "assets/svg/thymus.svg",
+      "model3d": "assets/models/thymus.glb",
+      "images": [
+        "assets/img/thymus_front.webp",
+        "assets/img/thymus_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems",
+          "section": "21.1"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "thymus_1",
+          "q": "Which lymphocyte type develops in the thymus?",
+          "question": "Which lymphocyte type develops in the thymus?",
+          "options": [
+            "T lymphocytes",
+            "Red blood cells",
+            "Platelets",
+            "Neutrophils only"
+          ],
+          "answer": 0,
+          "explanation": "The thymus supports maturation and selection of T lymphocytes."
+        },
+        {
+          "id": "thymus_2",
+          "q": "The thymus is classified as what?",
+          "question": "The thymus is classified as what?",
+          "options": [
+            "A digestive gland",
+            "A primary lymphoid organ",
+            "A joint",
+            "A urinary duct"
+          ],
+          "answer": 1,
+          "explanation": "The thymus is a primary lymphoid organ; lymph nodes and the spleen are secondary lymphoid organs."
+        }
+      ]
+    },
+    {
+      "id": "pituitary",
+      "latin": "Hypophysis",
+      "system": "endocrine",
+      "overview": "The pituitary has anterior and posterior components with different developmental origins and functions. It is closely connected to the hypothalamus.",
+      "function": "The anterior pituitary secretes hormones affecting several endocrine organs. The posterior pituitary releases oxytocin and antidiuretic hormone made by hypothalamic neurons.",
+      "location": "In the hypophyseal fossa of the sella turcica at the base of the skull, connected to the hypothalamus by the infundibulum.",
+      "bloodSupply": "Hypophyseal arteries supply the gland. A portal vascular system carries hypothalamic regulatory signals to the anterior pituitary.",
+      "innervation": "Hypothalamic axons extend into the posterior pituitary. Anterior pituitary activity is largely regulated by hormones arriving through portal vessels.",
+      "clinicalNotes": [
+        "The nearby optic chiasm is an important anatomical relationship.",
+        "The anterior and posterior components should not be treated as functionally interchangeable."
+      ],
+      "name": {
+        "en": "Pituitary gland",
+        "hi": "पीयूष ग्रंथि",
+        "gu": "પિયૂષ ગ્રંથિ"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.112,
+        "scale": 0.1
+      },
+      "depthOrder": 6,
+      "svg": "assets/svg/pituitary.svg",
+      "model3d": "assets/models/pituitary.glb",
+      "images": [
+        "assets/img/pituitary_front.webp",
+        "assets/img/pituitary_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus",
+          "section": "17.3"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "pituitary_1",
+          "q": "The pituitary sits in which bony feature?",
+          "question": "The pituitary sits in which bony feature?",
+          "options": [
+            "Acetabulum",
+            "Sella turcica",
+            "Glenoid cavity",
+            "Vertebral canal"
+          ],
+          "answer": 1,
+          "explanation": "The pituitary occupies the hypophyseal fossa within the sella turcica."
+        },
+        {
+          "id": "pituitary_2",
+          "q": "ADH released from the posterior pituitary is synthesized mainly where?",
+          "question": "ADH released from the posterior pituitary is synthesized mainly where?",
+          "options": [
+            "Thyroid gland",
+            "Spleen",
+            "Hypothalamus",
+            "Adrenal cortex"
+          ],
+          "answer": 2,
+          "explanation": "ADH is synthesized in hypothalamic neurons and transported to the posterior pituitary."
+        }
+      ]
+    },
+    {
+      "id": "adrenal",
+      "latin": "Glandulae suprarenales",
+      "system": "endocrine",
+      "overview": "Each adrenal gland has an outer cortex and an inner medulla. These regions produce different groups of hormones.",
+      "function": "The cortex produces steroid hormones, including cortisol and aldosterone. The medulla releases catecholamines during sympathetic activation.",
+      "location": "Retroperitoneal, near the superior poles of the kidneys. The glands have their own capsules and vascular supply.",
+      "bloodSupply": "Superior, middle and inferior suprarenal arterial groups arise from different sources. Each gland usually drains through a major suprarenal vein.",
+      "innervation": "Preganglionic sympathetic fibers directly stimulate adrenal medullary chromaffin cells.",
+      "clinicalNotes": [
+        "Cortex and medulla differ in tissue origin and regulation.",
+        "The right and left suprarenal veins have different usual drainage pathways."
+      ],
+      "name": {
+        "en": "Adrenal glands",
+        "hi": "अधिवृक्क ग्रंथियाँ",
+        "gu": "અધિવૃક્ક ગ્રંથિઓ"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.405,
+        "scale": 0.24
+      },
+      "depthOrder": 5,
+      "svg": "assets/svg/adrenal.svg",
+      "model3d": "assets/models/adrenal.glb",
+      "images": [
+        "assets/img/adrenal_front.webp",
+        "assets/img/adrenal_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands",
+          "section": "17.6"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "adrenal_1",
+          "q": "Which region produces cortisol?",
+          "question": "Which region produces cortisol?",
+          "options": [
+            "Adrenal cortex",
+            "Adrenal medulla",
+            "Renal pelvis",
+            "Splenic pulp"
+          ],
+          "answer": 0,
+          "explanation": "Cortisol is a steroid hormone produced by the adrenal cortex."
+        },
+        {
+          "id": "adrenal_2",
+          "q": "Chromaffin cells belong to which region?",
+          "question": "Chromaffin cells belong to which region?",
+          "options": [
+            "Thyroid follicle",
+            "Adrenal medulla",
+            "Kidney glomerulus",
+            "Bladder wall"
+          ],
+          "answer": 1,
+          "explanation": "Chromaffin cells of the adrenal medulla release catecholamines."
+        }
+      ]
+    },
+    {
+      "id": "femur",
+      "latin": "Femur",
+      "system": "skeletal",
+      "overview": "The femur is the long bone of the thigh. Its head, neck, trochanters, shaft and distal condyles provide articulation and muscle attachment.",
+      "function": "Transfers load between hip and knee and acts as a lever for lower-limb movement.",
+      "location": "Between the hip and knee. Its head articulates with the acetabulum, and its distal end participates in the knee joint.",
+      "bloodSupply": "The proximal femur receives important branches from circumflex femoral vessels; nutrient and periosteal vessels supply the shaft and other regions.",
+      "innervation": "Periosteal and vascular-associated nerves include sensory and autonomic fibers. Nearby joint innervation arises from several lower-limb nerves.",
+      "clinicalNotes": [
+        "Femoral head blood supply is an important anatomical consideration after a femoral neck fracture.",
+        "The supplied atlas model is a right femur, centered for viewing."
+      ],
+      "name": {
+        "en": "Femur",
+        "hi": "जांघ की हड्डी",
+        "gu": "જાંઘનું હાડકું"
+      },
+      "bodyPosition": {
+        "x": 0.43,
+        "y": 0.735,
+        "scale": 0.25
+      },
+      "depthOrder": 5,
+      "svg": "assets/svg/femur.svg",
+      "model3d": "assets/models/femur.glb",
+      "images": [
+        "assets/img/femur_front.webp",
+        "assets/img/femur_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-the-lower-limb",
+          "section": "8.4"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "femur_1",
+          "q": "The femoral head articulates with which structure?",
+          "question": "The femoral head articulates with which structure?",
+          "options": [
+            "Acetabulum",
+            "Glenoid cavity",
+            "Olecranon fossa",
+            "Patellar ligament"
+          ],
+          "answer": 0,
+          "explanation": "The head of the femur articulates with the acetabulum of the hip bone."
+        },
+        {
+          "id": "femur_2",
+          "q": "The femur is a bone of which region?",
+          "question": "The femur is a bone of which region?",
+          "options": [
+            "Forearm",
+            "Thigh",
+            "Skull",
+            "Hand"
+          ],
+          "answer": 1,
+          "explanation": "The femur is the long bone of the thigh."
+        }
+      ]
+    },
+    {
+      "id": "biceps",
+      "latin": "Musculus biceps brachii",
+      "system": "muscular",
+      "overview": "Biceps brachii is a two-headed muscle in the anterior compartment of the arm. Its long and short heads join into a common muscle belly.",
+      "function": "Supinates the forearm and flexes the elbow. It also contributes to shoulder movement and stability.",
+      "location": "Anterior arm, extending from scapular origins to an insertion on the radius and an aponeurotic expansion.",
+      "bloodSupply": "Muscular branches of the brachial artery supply much of the muscle.",
+      "innervation": "Musculocutaneous nerve, mainly through C5 and C6 spinal segments.",
+      "clinicalNotes": [
+        "Biceps is a forearm supinator as well as an elbow flexor.",
+        "The supplied geometry represents the long and short heads on the right side."
+      ],
+      "name": {
+        "en": "Biceps brachii",
+        "hi": "द्विशिरस्क पेशी",
+        "gu": "બાઇસેપ્સ સ્નાયુ"
+      },
+      "bodyPosition": {
+        "x": 0.285,
+        "y": 0.325,
+        "scale": 0.22
+      },
+      "depthOrder": 1,
+      "svg": "assets/svg/biceps.svg",
+      "model3d": "assets/models/biceps.glb",
+      "images": [
+        "assets/img/biceps_front.webp",
+        "assets/img/biceps_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs",
+          "section": "11.5"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "biceps_1",
+          "q": "Which nerve supplies biceps brachii?",
+          "question": "Which nerve supplies biceps brachii?",
+          "options": [
+            "Ulnar nerve",
+            "Musculocutaneous nerve",
+            "Sciatic nerve",
+            "Phrenic nerve"
+          ],
+          "answer": 1,
+          "explanation": "Biceps brachii is supplied by the musculocutaneous nerve."
+        },
+        {
+          "id": "biceps_2",
+          "q": "Which is a major action of biceps brachii?",
+          "question": "Which is a major action of biceps brachii?",
+          "options": [
+            "Forearm supination",
+            "Ankle plantarflexion",
+            "Knee extension",
+            "Finger abduction"
+          ],
+          "answer": 0,
+          "explanation": "Biceps brachii is a powerful supinator, particularly when the elbow is flexed."
+        }
+      ]
+    },
+    {
+      "id": "diaphragm",
+      "latin": "Diaphragma",
+      "system": "muscular",
+      "overview": "The diaphragm is a dome-shaped musculotendinous partition between thorax and abdomen. A central tendon connects its muscular portions.",
+      "function": "The principal muscle of inspiration. Contraction increases thoracic volume and contributes to abdominal pressure changes.",
+      "location": "Forms the inferior boundary of the thoracic cavity. Its major openings transmit the vena cava, esophagus and aorta through or behind it.",
+      "bloodSupply": "Several vessels contribute, including inferior phrenic, superior phrenic, pericardiacophrenic and musculophrenic arteries.",
+      "innervation": "Motor supply is through the phrenic nerves, from C3 to C5. Sensory supply includes phrenic and peripheral lower intercostal pathways.",
+      "clinicalNotes": [
+        "The diaphragm moves during breathing; the mesh is a static reference shape.",
+        "Phrenic nerve function is essential to normal diaphragmatic contraction."
+      ],
+      "name": {
+        "en": "Diaphragm",
+        "hi": "मध्यपट",
+        "gu": "ઉદરપટલ"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.36,
+        "scale": 0.32
+      },
+      "depthOrder": 2,
+      "svg": "assets/svg/diaphragm.svg",
+      "model3d": "assets/models/diaphragm.glb",
+      "images": [
+        "assets/img/diaphragm_front.webp",
+        "assets/img/diaphragm_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+          "section": "22.3"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "diaphragm_1",
+          "q": "Which nerve provides motor supply to the diaphragm?",
+          "question": "Which nerve provides motor supply to the diaphragm?",
+          "options": [
+            "Phrenic nerve",
+            "Median nerve",
+            "Optic nerve",
+            "Obturator nerve"
+          ],
+          "answer": 0,
+          "explanation": "The phrenic nerve supplies the diaphragm and arises from C3-C5."
+        },
+        {
+          "id": "diaphragm_2",
+          "q": "Diaphragm contraction during quiet inspiration generally does what?",
+          "question": "Diaphragm contraction during quiet inspiration generally does what?",
+          "options": [
+            "Decreases thoracic volume",
+            "Increases thoracic volume",
+            "Closes the ureter",
+            "Stops venous return"
+          ],
+          "answer": 1,
+          "explanation": "Contraction flattens the diaphragm and increases thoracic volume."
+        }
+      ]
+    },
+    {
+      "id": "spinal_cord",
+      "latin": "Medulla spinalis",
+      "system": "nervous",
+      "overview": "The spinal cord is part of the central nervous system. Ascending and descending pathways connect it to the brain, and segmental circuits support reflexes.",
+      "function": "Transmits sensory and motor information and integrates many reflex and autonomic activities.",
+      "location": "Within the vertebral canal. In adults it usually ends near the L1-L2 vertebral level, with nerve roots continuing below.",
+      "bloodSupply": "Anterior and posterior spinal arteries are reinforced by segmental vascular contributions.",
+      "innervation": "Spinal nerve roots connect the cord to peripheral nerves. Gray matter contains neuronal circuits, while white matter contains long pathways.",
+      "clinicalNotes": [
+        "The adult spinal cord is shorter than the vertebral canal; cord segments and vertebral levels are not identical.",
+        "The cauda equina consists of nerve roots below the usual end of the cord."
+      ],
+      "name": {
+        "en": "Spinal cord",
+        "hi": "मेरुरज्जु",
+        "gu": "કરોડરજ્જુ"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.4,
+        "scale": 0.15
+      },
+      "depthOrder": 6,
+      "svg": "assets/svg/spinal_cord.svg",
+      "model3d": "assets/models/spinal_cord.glb",
+      "images": [
+        "assets/img/spinal_cord_front.webp",
+        "assets/img/spinal_cord_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system",
+          "section": "13.2"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "spinal_cord_1",
+          "q": "The spinal cord lies within which space?",
+          "question": "The spinal cord lies within which space?",
+          "options": [
+            "Vertebral canal",
+            "Pleural cavity",
+            "Pericardial cavity",
+            "Bladder lumen"
+          ],
+          "answer": 0,
+          "explanation": "The spinal cord is protected within the vertebral canal."
+        },
+        {
+          "id": "spinal_cord_2",
+          "q": "The cauda equina is composed mainly of what?",
+          "question": "The cauda equina is composed mainly of what?",
+          "options": [
+            "Cerebral lobes",
+            "Spinal nerve roots",
+            "Cardiac valves",
+            "Alveoli"
+          ],
+          "answer": 1,
+          "explanation": "The cauda equina is a collection of nerve roots below the conus medullaris."
+        }
+      ]
+    },
+    {
+      "id": "skin",
+      "latin": "Cutis",
+      "system": "integumentary",
+      "overview": "Skin consists of epidermis and dermis, with a subcutaneous layer beneath. The epidermis forms a renewing outer barrier.",
+      "function": "Protects the body, contributes to temperature control, supports sensation and helps initiate vitamin D synthesis.",
+      "location": "Covers the external body surface. Its thickness and appendages vary across regions.",
+      "bloodSupply": "Vessels in the dermis and underlying tissues supply the skin. The epidermis is avascular and receives nutrients by diffusion.",
+      "innervation": "Cutaneous sensory endings detect touch, temperature and other stimuli. Autonomic fibers influence glands and small vessels.",
+      "clinicalNotes": [
+        "Skin depth matters when describing an injury; the epidermis and dermis differ structurally.",
+        "The illustration is a simplified cross-section, not a histological specimen. No licensed 3D skin model is bundled."
+      ],
+      "name": {
+        "en": "Skin",
+        "hi": "त्वचा",
+        "gu": "ત્વચા"
+      },
+      "bodyPosition": {
+        "x": 0.17,
+        "y": 0.46,
+        "scale": 0.15
+      },
+      "depthOrder": 0,
+      "svg": "assets/svg/skin.svg",
+      "model3d": null,
+      "images": [],
+      "modelNote": "Original schematic of skin layers. A 3D skin model is not included.",
+      "attribution": "Original AnatoMorph schematic illustration, MIT license.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin",
+          "section": "5.1"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "skin_1",
+          "q": "Which layer of skin is avascular?",
+          "question": "Which layer of skin is avascular?",
+          "options": [
+            "Dermis",
+            "Epidermis",
+            "Subcutaneous tissue",
+            "All layers"
+          ],
+          "answer": 1,
+          "explanation": "The epidermis contains no blood vessels and is nourished by diffusion from deeper tissues."
+        },
+        {
+          "id": "skin_2",
+          "q": "Which is a major function of skin?",
+          "question": "Which is a major function of skin?",
+          "options": [
+            "Barrier protection",
+            "Pumping blood",
+            "Producing bile",
+            "Filtering urine"
+          ],
+          "answer": 0,
+          "explanation": "Skin provides a protective barrier and also supports sensation and temperature regulation."
+        }
+      ]
+    },
+    {
+      "id": "testes",
+      "latin": "Testes",
+      "system": "reproductive",
+      "overview": "The paired testes contain seminiferous tubules and interstitial tissue. Germ cells, supporting cells and hormone-producing cells have distinct roles.",
+      "function": "Produce sperm in the seminiferous tubules and secrete testosterone mainly from interstitial Leydig cells.",
+      "location": "Within the scrotum, outside the abdominal cavity, with vascular and duct connections through the spermatic cords.",
+      "bloodSupply": "Testicular arteries usually arise from the abdominal aorta. The pampiniform venous plexuses contribute to heat exchange and venous return.",
+      "innervation": "Autonomic fibers reach the testes through the testicular plexuses accompanying their vessels.",
+      "clinicalNotes": [
+        "Scrotal position and vascular heat exchange support the temperature requirements of spermatogenesis.",
+        "This entry reflects the male reference dataset. The introductory catalog is not a complete reproductive anatomy atlas."
+      ],
+      "name": {
+        "en": "Testes",
+        "hi": "वृषण",
+        "gu": "વૃષણ"
+      },
+      "bodyPosition": {
+        "x": 0.5,
+        "y": 0.675,
+        "scale": 0.13
+      },
+      "depthOrder": 3,
+      "svg": "assets/svg/testes.svg",
+      "model3d": "assets/models/testes.glb",
+      "images": [
+        "assets/img/testes_front.webp",
+        "assets/img/testes_back.webp"
+      ],
+      "modelNote": "A simplified surface model from BodyParts3D 3.0, an adult male reference. Internal structures and anatomical variation are not fully represented. Not to be used for procedural planning.",
+      "attribution": "BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan. STL conversion: Kevin Mattheus Moerman. GLB adaptation and renders: AnatoMorph.",
+      "sources": [
+        {
+          "title": "OpenStax Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-male-reproductive-system",
+          "section": "27.1"
+        }
+      ],
+      "reviewStatus": "medical_review_pending",
+      "quiz": [
+        {
+          "id": "testes_1",
+          "q": "Sperm are produced in which structures?",
+          "question": "Sperm are produced in which structures?",
+          "options": [
+            "Seminiferous tubules",
+            "Renal tubules",
+            "Alveoli",
+            "Bile ducts"
+          ],
+          "answer": 0,
+          "explanation": "Spermatogenesis occurs in the seminiferous tubules."
+        },
+        {
+          "id": "testes_2",
+          "q": "Which cells produce much of the testicular testosterone?",
+          "question": "Which cells produce much of the testicular testosterone?",
+          "options": [
+            "Sertoli cells",
+            "Leydig cells",
+            "Red blood cells",
+            "Osteocytes"
+          ],
+          "answer": 1,
+          "explanation": "Interstitial Leydig cells produce testosterone."
+        }
+      ]
+    }
+  ]
+}

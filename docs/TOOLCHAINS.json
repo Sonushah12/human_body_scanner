@@ -1,0 +1,19 @@
+{
+  "distribution": "mobiledevops/flutter-sdk-image:3.44.4",
+  "manifestSha256": "56af91705e480775daf5e4ce3760974c5ae9edbc454abe6af82f77e896fea5b6",
+  "flutterVersion": "3.44.4",
+  "flutterFrameworkSha": "ad70ec4617166f1c38e5d2bfd388af71fda14f06",
+  "dartVersion": "3.12.2",
+  "sdkLayers": [
+    "sha256:4473e9679fa53ffad8e3569afa9cd488ee7650ebffb46906b8b5d05ae4abecbd",
+    "sha256:d1632439e0a240f5f18b3544821cba919af514c086330d1e2aa666ee917869c8"
+  ],
+  "androidLayers": [
+    "sha256:b7efe1dba8c8968cf76f3a2618e1bafb0f8ddac9be16a8fa8e7bbbe1591594dc",
+    "sha256:eae658f213965e30555f046be9f11faf6362841259fdad05d4072fff66d5815a",
+    "sha256:11d6341d7078bea2c1d290360201b2b56e48df8be49771a6cebdd236f3d6faea"
+  ],
+  "jdkLayer": "sha256:da1d66ee6d239baf08f4b98249a559d33a6965cdc8d514e696e83b9046d2c9e5",
+  "jdkVersion": "21.0.11",
+  "verification": "Each OCI layer checked against its registry SHA-256 before extraction. Framework SHA checked against official Flutter 3.44.4 tag. System certificate trust retained."
+}

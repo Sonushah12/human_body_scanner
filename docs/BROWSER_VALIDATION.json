@@ -1,0 +1,19 @@
+{
+  "result": "passed",
+  "checks": [
+    "desktop body/grid",
+    "heart detail",
+    "real Hive bookmark persistence",
+    "real Hive quiz persistence",
+    "question feedback",
+    "local GLB rendering",
+    "camera reset without reload",
+    "Hindi interface",
+    "dark theme",
+    "service worker offline reload",
+    "offline GLB rendering",
+    "phone viewport"
+  ],
+  "pageErrors": [],
+  "externalAppRequests": []
+}

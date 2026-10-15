@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Inter",
+    "path": "assets/fonts/Inter.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz%2Cwght%5D.ttf",
+    "license": "SIL-OFL-1.1",
+    "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+  },
+  {
+    "name": "NotoSansDevanagari",
+    "path": "assets/fonts/NotoSansDevanagari.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansdevanagari/NotoSansDevanagari%5Bwdth%2Cwght%5D.ttf",
+    "license": "SIL-OFL-1.1",
+    "sha256": "14ec4af41f27482216d1c2229f417ff9b1425e1babb014e57d1d40d03229853e"
+  },
+  {
+    "name": "NotoSansGujarati",
+    "path": "assets/fonts/NotoSansGujarati.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansgujarati/NotoSansGujarati%5Bwdth%2Cwght%5D.ttf",
+    "license": "SIL-OFL-1.1",
+    "sha256": "9901d8552f1dd5d2c50dbd4caa6f6e174e74e8264f06594ab259ae6e7b1ac428"
+  },
+  {
+    "name": "Roboto",
+    "path": "assets/fonts/Roboto.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/roboto/Roboto%5Bwdth%2Cwght%5D.ttf",
+    "license": "SIL-OFL-1.1",
+    "sha256": "d7598e12c5dbef095ff8272cfc55da0250bd07fbdecbac8a530b9b277872a134"
+  }
+]

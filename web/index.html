@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="AnatoMorph — an anatomy study atlas with offline structures, interactive models and practice questions.">
+  <meta name="theme-color" content="#287D72">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="manifest.json">
+  <title>AnatoMorph</title>
+  <script type="module" src="model-viewer.min.js"></script>
+  <script type="module" src="viewer_events.js"></script>
+  <style>
+    html,body{margin:0;min-height:100%;background:#F8FAF7;color:#183D3D;font-family:system-ui,sans-serif}
+    #loading{position:fixed;inset:0;display:grid;place-content:center;text-align:center;gap:12px}
+    #loading strong{font-size:24px;letter-spacing:-.5px}
+    #loading span{font-size:13px;color:#56736A}
+  </style>
+</head>
+<body>
+  <div id="loading" role="status"><strong>AnatoMorph</strong><span>Opening your anatomy atlas…</span></div>
+  <script>
+    window.addEventListener('flutter-first-frame',()=>document.getElementById('loading')?.remove());
+    if ('serviceWorker' in navigator) window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
